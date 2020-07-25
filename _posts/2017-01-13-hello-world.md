@@ -3,7 +3,7 @@ title: Hello World
 layout: post
 ---
 
-### Welcome to Anh Le on the Web
+### Welcome to Lam Nguyen on the Web
 
 This is a personal website where I can share my random thoughts about life, technologies & coding.
 
