@@ -2,9 +2,9 @@
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "https://bigsonata.com"
-enforce_ssl: bigsonata.com
-baseurl: ""
+#url: "https://bigsonata.com"
+#enforce_ssl: bigsonata.com
+#baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -50,13 +50,13 @@ footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
   linkedin: true
   xing: false
-  stackoverflow: true
+  stackoverflow: false
   snapchat: false
   instagram: false
   youtube: false
@@ -72,21 +72,21 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "bigsonata.com"
+#url-pretty: "bigsonata.com"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "bigsonata"
+d#isqus: "bigsonata"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: " UA-52997260-1"
+#google_analytics: " UA-52997260-1"
 
 # Google Tag Manager ID
 #gtm: ""
 
 # Facebook App ID
 # Can get yours at: http://findmyfbid.com/
-fb_app_id: "261353507399909"
+#fb_app_id: "261353507399909"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
