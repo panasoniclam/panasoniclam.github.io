@@ -37,13 +37,13 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anh Le
-  title: Data Engineer
-  email: "anhldbk@gmail.com"
-  github: anhldbk
-  twitter: bigsonata
-  linkedin: anhl3vn
-  stackoverflow: "197896/anhldbk" # open your profile on stackoverflow to get the magic prefix number :-P
+  name: Lam Nguyen
+  title: Software Engineer
+  email: "lamnn.coder@gmail.com"
+  github: panasoniclam
+  twitter: Lam Nguyen Ngoc
+  linkedin: Nguyen Ngoc Lam
+  stackoverflow: "11602207/nguyễn-ngọc-lãm" # open your profile on stackoverflow to get the magic prefix number :-P
 
 # Select which links to show in the footer
 footer-links-active:
