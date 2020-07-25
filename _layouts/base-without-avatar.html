@@ -1,0 +1,37 @@
+---
+common-css:
+  - "/css/bootstrap.min.css"
+  - "/css/bootstrap-social.css"
+  - "/css/main.css"
+  - "/css/styles-3.css"
+  - "/css/font-awesome.css"
+common-ext-css:
+  - "//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
+common-googlefonts:
+  - "Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic"
+  - "Lora:400,700,400italic,700italic"
+  - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+common-js:
+  - "/js/jquery-1.11.2.min.js"
+  - "/js/bootstrap.min.js"
+  - "/js/main.js"
+  - "/js/jspdf.min.js"
+---
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body>
+
+    {% include gtm_body.html %}
+
+    {% include nav-without-avatar.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    {% include footer-scripts.html %}
+
+  </body>
+</html>

@@ -1,0 +1,153 @@
+<!--//Overview-->
+<section class="section summary-section">
+    <h2 class="section-title"><i class="fa fa-user"></i>Overview</h2>
+    <div class="summary">
+        {% for overview in site.data.cv.overview %}
+            <div class="item">
+                <p style="margin-bottom: 10px">{{overview}}</p>
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+<!--//Education-->
+<section class="section experiences-section">
+    <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Education</h2>
+
+    {% for education in site.data.cv.education %}
+        <div class="item">
+            <div class="meta">
+                <div class="upper-row">
+                    <h3 class="title">{{education.degree}}</h3>
+                    <div class="time">{{education.time}}</div>
+                </div>
+                <!--//upper-row-->
+                <div class="company">{{education.school}}</div>
+            </div>
+        </div>
+    {% endfor %}
+
+</section>
+
+<!--//Certificates-->
+<section class="section experiences-section">
+    <h2 class="section-title"><i class="fa fa-certificate"></i>Certificates</h2>
+
+    {% for certificate in site.data.cv.certificates %}
+        <div class="item">
+            <div class="meta">
+                <div class="upper-row">
+                    <h3 class="title">{{certificate.name}}</h3>
+                    <div class="time">{{certificate.time}}</div>
+                </div>
+                <!--//upper-row-->
+                <div class="company">{{certificate.issuer}}</div>
+            </div>
+        </div>
+    {% endfor %}
+
+</section>
+
+<!--//skills-knowledge-->
+<section class="skills-section section">
+    <h2 class="section-title"><i class="fa fa-book"></i>Knowledge &amp; Proficiency</h2>
+    <div class="skillset">
+        {% for skill in site.data.cv.skills.knowledge %}
+            <div class="item">
+                <h3 class="level-title">{{skill.name}}</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" style="width: {{skill.proficiency}};">
+                    </div>
+                </div>
+                <!--//level-bar-->
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+<!--//skills-programming-->
+<section class="skills-section section">
+    <h2 class="section-title"><i class="fa fa-language"></i>Programming &amp; Proficiency</h2>
+    <div class="skillset">
+        {% for skill in site.data.cv.skills.programming %}
+            <div class="item">
+                <h3 class="level-title">{{skill.name}}</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" style="width: {{skill.proficiency}};">
+                    </div>
+                </div>
+                <!--//level-bar-->
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+<!--//Experiences-->
+<section class="section experiences-section">
+    <h2 class="section-title"><i class="fa fa-briefcase"></i>Experiences</h2>
+    {% for experience in site.data.cv.experiences %}
+        <div class="item">
+            <div class="meta">
+                <div class="upper-row">
+                    <h3 class="title">{{experience.job}}</h3>
+                    <div class="time">{{experience.time}}</div>
+                </div>
+                <!--//upper-row-->
+                <div class="company">{{experience.company}}</div>
+            </div>
+            <!--//meta-->
+            <div class="details">
+                <ul>
+                    {% for detail in experience.details%}
+                        <li><p>{{detail}}</p></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <!--//details-->
+        </div>
+    {% endfor %}
+</section>
+
+<!--//projects-->
+<section class="section projects-section">
+    <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+    <div class="intro">
+        <p>My public things</p>
+    </div>
+    
+    {% for project in site.data.cv.projects %}
+        <div class="item">
+            <span class="project-title"><a href="{{project.link}}">{{project.name}}</a></span> - <span class="project-tagline">{{project.detail}}</span>
+        </div>
+    {% endfor %}
+
+</section>
+
+<!--//Hobbies-->
+<section class="section experiences-section">
+    <h2 class="section-title"><i class="fa fa-briefcase"></i>Hobbies</h2>
+    <div class="intro">
+        <p>Here are several things I do in my leisure time</p>
+    </div>
+    <ul>
+        {% for hobby in site.data.cv.hobbies %}
+            <li>{{hobby}}</li>
+        {% endfor %}
+    </ul>
+
+</section>
+
+<!--//References-->
+<section class="section experiences-section">
+    <h2 class="section-title"><i class="fa fa-briefcase"></i>References</h2>
+    <div class="intro">
+        <p>My digital traces in the online world</p>
+    </div>
+    <ol>
+        {% for reference in site.data.cv.references %}
+            <li>
+                <a href="{{reference.link}}">{{reference.title}}</a>
+            </li>
+        {% endfor %}
+    </ol>
+</section>
