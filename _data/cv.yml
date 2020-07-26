@@ -1,169 +1,169 @@
-overview:
-  - "Having excellent degrees in Computer Engineering from Hanoi University of Technology, I am a data engineer with 9+ years of experience. I am motivated and enthusiastic by new computing challenges"
-  - "I thrive in unfamiliar situations and enjoy opportunities to learn and gain exposure to new ideas and experiences. With an open mind, I'm willing to learn whatever is necessary to accomplish goals."
+# overview:
+#   - "Having excellent degrees in Computer Engineering from Hanoi University of Technology, I am a data engineer with 9+ years of experience. I am motivated and enthusiastic by new computing challenges"
+#   - "I thrive in unfamiliar situations and enjoy opportunities to learn and gain exposure to new ideas and experiences. With an open mind, I'm willing to learn whatever is necessary to accomplish goals."
 
-education:
-  - degree: MSc with distinction, Computer Engineering
-    time: 2011 - 2013
-    school: Hanoi University of Technology
-  - degree: BSc with distinction, Computer Engineering
-    time: 2005 - 2010
-    school: Hanoi University of Technology
-  - degree: Student, Gifted Math
-    time: 2003 - 2005
-    school: Lam Son High School for the Gifted
+# education:
+#   - degree: MSc with distinction, Computer Engineering
+#     time: 2011 - 2013
+#     school: Hanoi University of Technology
+#   - degree: BSc with distinction, Computer Engineering
+#     time: 2005 - 2010
+#     school: Hanoi University of Technology
+#   - degree: Student, Gifted Math
+#     time: 2003 - 2005
+#     school: Lam Son High School for the Gifted
 
-interests:
-  - Blockchain & AI
-  - Entrepreneurship
-  - Education
+# interests:
+#   - Blockchain & AI
+#   - Entrepreneurship
+#   - Education
 
-hobbies:
-  - Reading books about technologies & entrepreneurship
-  - Self-studying several topics I like such as Machine Learning, Blockchain ...
-  - "Contributing to various open source projects like: MQTT.js, Gensim, HapiJS"
-  - Managing several technology communities I founded such as "Vietnam Data Scientists" (since 2013), "Vietnam Blockchain Experts" (since 2016)
-  - Blogging
-  - Cooking
-  - Jogging
-  - Photographing
+# hobbies:
+#   - Reading books about technologies & entrepreneurship
+#   - Self-studying several topics I like such as Machine Learning, Blockchain ...
+#   - "Contributing to various open source projects like: MQTT.js, Gensim, HapiJS"
+#   - Managing several technology communities I founded such as "Vietnam Data Scientists" (since 2013), "Vietnam Blockchain Experts" (since 2016)
+#   - Blogging
+#   - Cooking
+#   - Jogging
+#   - Photographing
 
-projects:
-  - name: Evolas
-    link: #
-    detail: An IoT platform based on Blockchain (comming soon)
-  - name: Unicode Shellcode and Improvements (paper)
-    link: "/resources/unicode_shellcode_2008.pdf"
-    detail: Buffer overflow bugs are amongst the most prevalent and the most critical bugs today. On exploiting these bugs, we often encounter the problem of Unicode format which prevents our shellcodes from executing properly. This documentation will cover conventional methods to write a Unicode shellcode and the improvements that we have applied.
+# projects:
+#   - name: Evolas
+#     link: #
+#     detail: An IoT platform based on Blockchain (comming soon)
+#   - name: Unicode Shellcode and Improvements (paper)
+#     link: "/resources/unicode_shellcode_2008.pdf"
+#     detail: Buffer overflow bugs are amongst the most prevalent and the most critical bugs today. On exploiting these bugs, we often encounter the problem of Unicode format which prevents our shellcodes from executing properly. This documentation will cover conventional methods to write a Unicode shellcode and the improvements that we have applied.
 
-references:
-  - title: "ComputerWorld: Google issues first patches for Chrome"
-    link: "http://www.computerworld.com/article/2532985/security0/google-issues-first-patches-for-chrome.html"
-  - title: "F-Secure: Microchip MPLAB IDE Buffer Overflow Vulnerability"
-    link: "http://www.f-secure.com/vulnerabilities/SA200902011"
-  - title: "Article: Building a Search Text Box Control with WPF"
-    link: "http://www.codeproject.com/Articles/101975/Building-a-Search-Text-Box-Control-with-WPF"
-  - title: "MQTT.js contributor"
-    link: "https://github.com/mqttjs/MQTT.js/graphs/contributors"
-  - title: "Gensim contributor"
-    link: "https://github.com/RaRe-Technologies/gensim/pull/548"
-  - title: "Introduction to Zookeeper (slideshare)"
-    link: "http://www.slideshare.net/anhldbk/zookeeper-big-sonata"
-  - title: "Admin of Vietnam Data Scientists community"
-    link: "https://www.facebook.com/groups/vietnam.data.scientists/"
-  - title: "Admin of Vietnam Blockchain Experts community"
-    link: "https://www.facebook.com/groups/vietnam.blockchain.experts/"
-  - title: "ZaloPay Edu: Khởi nguồn (vietnamese)"
-    link: "https://medium.com/zalopay-engineering/zalopay-edu-kh%E1%BB%9Fi-ngu%E1%BB%93n-77cf855246c1"
-  - title: "ZaloPay Open Source"
-    link: "https://github.com/zalopay-oss"
-  - title: "ZaloPay Engineering Blog"
-    link: "https://medium.com/zalopay-engineering"
+# references:
+#   - title: "ComputerWorld: Google issues first patches for Chrome"
+#     link: "http://www.computerworld.com/article/2532985/security0/google-issues-first-patches-for-chrome.html"
+#   - title: "F-Secure: Microchip MPLAB IDE Buffer Overflow Vulnerability"
+#     link: "http://www.f-secure.com/vulnerabilities/SA200902011"
+#   - title: "Article: Building a Search Text Box Control with WPF"
+#     link: "http://www.codeproject.com/Articles/101975/Building-a-Search-Text-Box-Control-with-WPF"
+#   - title: "MQTT.js contributor"
+#     link: "https://github.com/mqttjs/MQTT.js/graphs/contributors"
+#   - title: "Gensim contributor"
+#     link: "https://github.com/RaRe-Technologies/gensim/pull/548"
+#   - title: "Introduction to Zookeeper (slideshare)"
+#     link: "http://www.slideshare.net/anhldbk/zookeeper-big-sonata"
+#   - title: "Admin of Vietnam Data Scientists community"
+#     link: "https://www.facebook.com/groups/vietnam.data.scientists/"
+#   - title: "Admin of Vietnam Blockchain Experts community"
+#     link: "https://www.facebook.com/groups/vietnam.blockchain.experts/"
+#   - title: "ZaloPay Edu: Khởi nguồn (vietnamese)"
+#     link: "https://medium.com/zalopay-engineering/zalopay-edu-kh%E1%BB%9Fi-ngu%E1%BB%93n-77cf855246c1"
+#   - title: "ZaloPay Open Source"
+#     link: "https://github.com/zalopay-oss"
+#   - title: "ZaloPay Engineering Blog"
+#     link: "https://medium.com/zalopay-engineering"
 
-languages:
-  - name: Vietnamese
-    level: Native
-  - name: English
-    level: Professional
+# languages:
+#   - name: Vietnamese
+#     level: Native
+#   - name: English
+#     level: Professional
 
-skills:
-  programming:
-    - name: Javascript
-      proficiency: 100%
-    - name: Python
-      proficiency: 95%
-    - name: Assembly
-      proficiency: 100%
-    - name: Java, C/C++
-      proficiency: 80%
-    - name: C#
-      proficiency: 90%
-    - name: HTML & CSS
-      proficiency: 60%
-  knowledge:
-    - name: Application Security
-      proficiency: 100%
-    - name: Reverse Engineering
-      proficiency: 80%
-    - name: Big Data stack
-      proficiency: 90%
-    - name: React/React Native
-      proficiency: 90%
-    - name: Statistics
-      proficiency: 80%
-    - name: ScikitLearn, Gensim
-      proficiency: 70%
-    - name: NLP
-      proficiency: 60%
-    - name: DevOps
-      proficiency: 70%
+# skills:
+#   programming:
+#     - name: Javascript
+#       proficiency: 100%
+#     - name: Python
+#       proficiency: 95%
+#     - name: Assembly
+#       proficiency: 100%
+#     - name: Java, C/C++
+#       proficiency: 80%
+#     - name: C#
+#       proficiency: 90%
+#     - name: HTML & CSS
+#       proficiency: 60%
+#   knowledge:
+#     - name: Application Security
+#       proficiency: 100%
+#     - name: Reverse Engineering
+#       proficiency: 80%
+#     - name: Big Data stack
+#       proficiency: 90%
+#     - name: React/React Native
+#       proficiency: 90%
+#     - name: Statistics
+#       proficiency: 80%
+#     - name: ScikitLearn, Gensim
+#       proficiency: 70%
+#     - name: NLP
+#       proficiency: 60%
+#     - name: DevOps
+#       proficiency: 70%
 
-certificates:
-  - name: Bitcoin and Cryptocurrency Technologies
-    time: 2016
-    issuer: Princeton University (in associated with Coursera)
-  - name: Economics
-    time: 2010
-    issuer: National Economics University
-  - name: Business Management
-    time: 2010
-    issuer: Ministry of Science & Technology
-  - name: TOEFL ITP
-    time: 2010
-    issuer: Postech University (Korea)
-  - name: Best students in “Panasonic-sponsored class for embedded software development”
-    time: 2009
-    issuer: Panasonic Vietnam
-  - name: Speaker in “Bellua Cyber Security Asia, the 4th annual conference on Information Security and Hacking”
-    time: 2008
+# certificates:
+#   - name: Bitcoin and Cryptocurrency Technologies
+#     time: 2016
+#     issuer: Princeton University (in associated with Coursera)
+#   - name: Economics
+#     time: 2010
+#     issuer: National Economics University
+#   - name: Business Management
+#     time: 2010
+#     issuer: Ministry of Science & Technology
+#   - name: TOEFL ITP
+#     time: 2010
+#     issuer: Postech University (Korea)
+#   - name: Best students in “Panasonic-sponsored class for embedded software development”
+#     time: 2009
+#     issuer: Panasonic Vietnam
+#   - name: Speaker in “Bellua Cyber Security Asia, the 4th annual conference on Information Security and Hacking”
+#     time: 2008
 
-experiences:
-  - job: Principal Software Engineer
-    time: 2017 to present
-    company: ZaloPay (VNG)
-    details:
-      - Concentrating on building distributed systems, I've designed and provided solutions for core services in ZaloPay
-      - Mastermind behind ZaloPay Edu, a comprehensive training program for engineering freshers
-      - "I created public channels to make ZaloPay open, including: open source repositories on GitHub, engineering blog on Medium"
+# experiences:
+#   - job: Principal Software Engineer
+#     time: 2017 to present
+#     company: ZaloPay (VNG)
+#     details:
+#       - Concentrating on building distributed systems, I've designed and provided solutions for core services in ZaloPay
+#       - Mastermind behind ZaloPay Edu, a comprehensive training program for engineering freshers
+#       - "I created public channels to make ZaloPay open, including: open source repositories on GitHub, engineering blog on Medium"
 
-  - job: Senior Data Engineer
-    time: 2014 to 2017
-    company: Viettel Group
-    details:
-      - "Led a team to build a massive-scale social media monitoring system using open source components including: crawlers (written in Java & Scala), messaging (using ActiveMQ & Protobuf), analytics (using Spark, Python Scikit-learn) and storage (with HBase, Redis, ElasticSearch, MySQL)"
-      - Optimized performance for Python microservice using ZeroMQ & Greenlet (Apache Thrift does NOT suit my needs)
-      - Researched on Statistics, NLP (Natural language processing). I worked under the mentorship of several PhDs. They helped me efficiently learn & improve my knowledge on AI.
-      - Improved the in-house Vietnamese tokenizer
-      - Developed algorithms based on Stanford CoreNLP for matching (token level) documents, extracting snippets...
-      - Trained predictive models with ScikitLearn, XGBoost & Gensim for various projects like document categorization, sentiment analysis.
+#   - job: Senior Data Engineer
+#     time: 2014 to 2017
+#     company: Viettel Group
+#     details:
+#       - "Led a team to build a massive-scale social media monitoring system using open source components including: crawlers (written in Java & Scala), messaging (using ActiveMQ & Protobuf), analytics (using Spark, Python Scikit-learn) and storage (with HBase, Redis, ElasticSearch, MySQL)"
+#       - Optimized performance for Python microservice using ZeroMQ & Greenlet (Apache Thrift does NOT suit my needs)
+#       - Researched on Statistics, NLP (Natural language processing). I worked under the mentorship of several PhDs. They helped me efficiently learn & improve my knowledge on AI.
+#       - Improved the in-house Vietnamese tokenizer
+#       - Developed algorithms based on Stanford CoreNLP for matching (token level) documents, extracting snippets...
+#       - Trained predictive models with ScikitLearn, XGBoost & Gensim for various projects like document categorization, sentiment analysis.
 
-  - job: Security & Data Engineer
-    time: 2013-2014
-    company: Cyber Security Department, MV Corp
-    details:
-      - Conducted various researches on Big Data technologies (Hadoop stack), Machine Learning & Text Mining algorithms such as SVM, Neural Network, Ensemble method, TF-IDF … for detecting trends, related topics...
-      - Led a project of building a large-scale crawler based on Nutch for collecting information from web and social networks
-      - Worked directly with international technology partners
+#   - job: Security & Data Engineer
+#     time: 2013-2014
+#     company: Cyber Security Department, MV Corp
+#     details:
+#       - Conducted various researches on Big Data technologies (Hadoop stack), Machine Learning & Text Mining algorithms such as SVM, Neural Network, Ensemble method, TF-IDF … for detecting trends, related topics...
+#       - Led a project of building a large-scale crawler based on Nutch for collecting information from web and social networks
+#       - Worked directly with international technology partners
 
-  - job: Manager
-    time: 2010-2013
-    company: Bkav Security Division, Bkav Corp.
-    details:
-      - Used ANTLR to develop a language ,which is scriptable and based on context free grammar, to generate data for fuzzing.
-      - Involved in many phases to design a product such as UI/UX, High-performance backends... I've got in-depth knowledge of systems and assisted technologies. Additionally, I'm very interested in designing business model for products.
-      - Via forensics and investigation, I helped many people secure their computing systems & identities
-      - Designed core content, prepared syllabus for intern students
+#   - job: Manager
+#     time: 2010-2013
+#     company: Bkav Security Division, Bkav Corp.
+#     details:
+#       - Used ANTLR to develop a language ,which is scriptable and based on context free grammar, to generate data for fuzzing.
+#       - Involved in many phases to design a product such as UI/UX, High-performance backends... I've got in-depth knowledge of systems and assisted technologies. Additionally, I'm very interested in designing business model for products.
+#       - Via forensics and investigation, I helped many people secure their computing systems & identities
+#       - Designed core content, prepared syllabus for intern students
 
-  - job: Teaching assistant
-    time: 2010-2012
-    company: Hanoi University of Technology
-    details:
-      - Gave lectures on Network programming & Security
+#   - job: Teaching assistant
+#     time: 2010-2012
+#     company: Hanoi University of Technology
+#     details:
+#       - Gave lectures on Network programming & Security
 
-  - job: Intern student
-    time: 2006-2010
-    company: Bkav Security Division, Bkav Corp.
-    details:
-      - Researched extensively on Application Security, Reverse Engineering, Windows kernel system...
-      - Discovered several critical vulnerabilities in popular applications. The very first vulnerability of Google Chrome was submitted by me
-      - Presented my paper entitled "Unicode shellcode and improvements" at Bellua Cyber Security conference (2008). In the paper I demonstrated a novel idea on optimizing size of Unicode shellcodes.
+#   - job: Intern student
+#     time: 2006-2010
+#     company: Bkav Security Division, Bkav Corp.
+#     details:
+#       - Researched extensively on Application Security, Reverse Engineering, Windows kernel system...
+#       - Discovered several critical vulnerabilities in popular applications. The very first vulnerability of Google Chrome was submitted by me
+#       - Presented my paper entitled "Unicode shellcode and improvements" at Bellua Cyber Security conference (2008). In the paper I demonstrated a novel idea on optimizing size of Unicode shellcodes.
