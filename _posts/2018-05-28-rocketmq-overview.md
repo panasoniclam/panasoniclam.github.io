@@ -11,4 +11,4 @@ Apache RocketMQ is an interesting message broker. This [article](https://www.inf
 
 But is the open-sourced version of Apache RocketMQ ready for production? Have a look at this presentation to find your own answer:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYh_VLxFCAqKLxGVZvtOw7Nu_MSXL3v-wbUMJt6k_dW0BrxkR7haZb1M-eGLZi3eaXcRXA2AKfxP3l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYh_VLxFCAqKLxGVZvtOw7Nu_MSXL3v-wbUMJt6k_dW0BrxkR7haZb1M-eGLZi3eaXcRXA2AKfxP3l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="750" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
