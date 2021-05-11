@@ -60,43 +60,43 @@
 #   - title: "ZaloPay Engineering Blog"
 #     link: "https://medium.com/zalopay-engineering"
 
-# languages:
-#   - name: Vietnamese
-#     level: Native
+languages:
+  - name: Vietnamese
+    level: Native
 #   - name: English
 #     level: Professional
 
-# skills:
-#   programming:
-#     - name: Javascript
-#       proficiency: 100%
-#     - name: Python
-#       proficiency: 95%
-#     - name: Assembly
-#       proficiency: 100%
-#     - name: Java, C/C++
-#       proficiency: 80%
-#     - name: C#
-#       proficiency: 90%
-#     - name: HTML & CSS
-#       proficiency: 60%
-#   knowledge:
-#     - name: Application Security
-#       proficiency: 100%
-#     - name: Reverse Engineering
-#       proficiency: 80%
-#     - name: Big Data stack
-#       proficiency: 90%
-#     - name: React/React Native
-#       proficiency: 90%
-#     - name: Statistics
-#       proficiency: 80%
-#     - name: ScikitLearn, Gensim
-#       proficiency: 70%
-#     - name: NLP
-#       proficiency: 60%
-#     - name: DevOps
-#       proficiency: 70%
+skills:
+  programming:
+    - name: Javascript
+      proficiency: 100%
+    - name: Assembly
+      proficiency: 100%
+    - name:  C/C++
+      proficiency: 80%
+    - name: HTML & CSS
+      proficiency: 60%
+  knowledge:
+    # - name: Application Security
+    #   proficiency: 100%
+    - name: Reverse Engineering
+      proficiency: 80%
+    # - name: Big Data stack
+    #   proficiency: 90%
+    - name: React
+      proficiency: 90%
+    - name: Angularjs
+      proficiency: 70%
+    - name: Vuejs
+      proficiency: 70%
+    # - name: Statistics
+    #   proficiency: 80%
+    # - name: ScikitLearn, Gensim
+    #   proficiency: 70%
+    # - name: NLP
+    #   proficiency: 60%
+    # - name: DevOps
+    #   proficiency: 70%
 
 # certificates:
 #   - name: Bitcoin and Cryptocurrency Technologies
