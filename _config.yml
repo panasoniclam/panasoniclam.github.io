@@ -37,12 +37,12 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Lam Nguyen
+  name: Lam Nguyen Ngoc
   title: Software Engineer
   email: "lamnn.coder@gmail.com"
   github: panasoniclam
   twitter: Lam Nguyen Ngoc
-  linkedin: Nguyen Ngoc Lam
+  linkedin: Lam Nguyen Ngoc
   stackoverflow: "11602207/nguyễn-ngọc-lãm" # open your profile on stackoverflow to get the magic prefix number :-P
 
 # Select which links to show in the footer
