@@ -1,40 +1,34 @@
 overview:
-  - "Having excellent degrees in Computer Engineering from Hanoi University of Technology, I am a data engineer with 9+ years of experience. I am motivated and enthusiastic by new computing challenges"
+  - "Having degrees in Security Enginee from Academy of Cryptography Techniques, I am a Full stack developer with + years of experience. I am motivated and enthusiastic by new computing challenges"
   - "I thrive in unfamiliar situations and enjoy opportunities to learn and gain exposure to new ideas and experiences. With an open mind, I'm willing to learn whatever is necessary to accomplish goals."
 
-# education:
-#   - degree: MSc with distinction, Computer Engineering
-#     time: 2011 - 2013
-#     school: Hanoi University of Technology
-#   - degree: BSc with distinction, Computer Engineering
-#     time: 2005 - 2010
-#     school: Hanoi University of Technology
-#   - degree: Student, Gifted Math
-#     time: 2003 - 2005
-#     school: Lam Son High School for the Gifted
+education:
+  - degree: Information Security
+    time: 2016 - 2021
+    school: Academy of Cryptography Technique
 
-# interests:
-#   - Blockchain & AI
-#   - Entrepreneurship
-#   - Education
 
-# hobbies:
-#   - Reading books about technologies & entrepreneurship
-#   - Self-studying several topics I like such as Machine Learning, Blockchain ...
-#   - "Contributing to various open source projects like: MQTT.js, Gensim, HapiJS"
-#   - Managing several technology communities I founded such as "Vietnam Data Scientists" (since 2013), "Vietnam Blockchain Experts" (since 2016)
-#   - Blogging
-#   - Cooking
-#   - Jogging
-#   - Photographing
+interests:
+  - Blockchain & AI
+  - Entrepreneurship
+  - Education
 
-# projects:
-#   - name: Evolas
-#     link: #
-#     detail: An IoT platform based on Blockchain (comming soon)
-#   - name: Unicode Shellcode and Improvements (paper)
-#     link: "/resources/unicode_shellcode_2008.pdf"
-#     detail: Buffer overflow bugs are amongst the most prevalent and the most critical bugs today. On exploiting these bugs, we often encounter the problem of Unicode format which prevents our shellcodes from executing properly. This documentation will cover conventional methods to write a Unicode shellcode and the improvements that we have applied.
+hobbies:
+  - Reading books about technologies & entrepreneurship
+  - Self-studying several topics I like such as Machine Learning, Blockchain ...
+  - Managing several technology communities I founded such as "Uipath Vietnam" (since 2016)
+  - Blogging
+  - Cooking
+  - Jogging
+  - Photographing
+
+projects:
+  - name: OMNI
+    link: #
+    detail: An SideChain platform based on Blockchain (comming soon)
+  # - name: Unicode Shellcode and Improvements (paper)
+  #   link: "/resources/unicode_shellcode_2008.pdf"
+  #   detail: Buffer overflow bugs are amongst the most prevalent and the most critical bugs today. On exploiting these bugs, we often encounter the problem of Unicode format which prevents our shellcodes from executing properly. This documentation will cover conventional methods to write a Unicode shellcode and the improvements that we have applied.
 
 # references:
 #   - title: "ComputerWorld: Google issues first patches for Chrome"
