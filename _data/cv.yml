@@ -23,9 +23,19 @@ hobbies:
   - Photographing
 
 projects:
-  - name: OMNI
+  - name: OMNI Sidechain 
     link: #
     detail: An SideChain platform based on Blockchain (comming soon)
+   - name: Membee Exchange
+    link: https://mcdemo.membee.vn/auth/login
+    detail:  Is an application that converts loyalty points to onchain tokens 
+  - name: Membee admin
+    link: https://mcdemo.membee.vn/
+    detail: Project used to manage mobile application services 
+   - name: Collaboration HUB
+    link: https://hi.fpt.vn/
+    detail: The Web application helps employees interact directly with customers through the homepage of fpt.vn, FPT Telecom fanpage and Hi FPT application with chat, media message and streaming video call features
+
   # - name: Unicode Shellcode and Improvements (paper)
   #   link: "/resources/unicode_shellcode_2008.pdf"
   #   detail: Buffer overflow bugs are amongst the most prevalent and the most critical bugs today. On exploiting these bugs, we often encounter the problem of Unicode format which prevents our shellcodes from executing properly. This documentation will cover conventional methods to write a Unicode shellcode and the improvements that we have applied.
