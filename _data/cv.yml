@@ -155,5 +155,4 @@ experiences:
     company: Academy of Cryptography Techniques.
     details:
       - Researched extensively on Application Security, Reverse Engineering, Windows kernel system...
-      - Discovered several critical vulnerabilities in popular applications. The very first vulnerability of Google Chrome was submitted by me
       - Presented my paper entitled "Unicode shellcode and improvements" at Bellua Cyber Security conference (2008). In the paper I demonstrated a novel idea on optimizing size of Unicode shellcodes.
