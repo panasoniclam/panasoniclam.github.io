@@ -42,7 +42,7 @@ projects:
   #   link: "/resources/unicode_shellcode_2008.pdf"
   #   detail: Buffer overflow bugs are amongst the most prevalent and the most critical bugs today. On exploiting these bugs, we often encounter the problem of Unicode format which prevents our shellcodes from executing properly. This documentation will cover conventional methods to write a Unicode shellcode and the improvements that we have applied.
 
-# references:
+references:
 #   - title: "ComputerWorld: Google issues first patches for Chrome"
 #     link: "http://www.computerworld.com/article/2532985/security0/google-issues-first-patches-for-chrome.html"
 #   - title: "F-Secure: Microchip MPLAB IDE Buffer Overflow Vulnerability"
