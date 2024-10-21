@@ -63,7 +63,6 @@
     <div class="intro">
         <p>My public things</p>
     </div>
-    
     {% for project in site.data.cv.projects %}
         <div class="item">
             <span class="project-title"><a href="{{project.link}}">{{project.name}}</a></span> - <span class="project-tagline">{{project.detail}}</span>
