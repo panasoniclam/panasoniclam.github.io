@@ -64,25 +64,27 @@ skills:
   programming:
     - name: Javascript
       proficiency: 100%
+    - name: C#
+      proficiency: 70%
     - name: Assembly
-      proficiency: 100%
+      proficiency: 80%
     - name:  C/C++
       proficiency: 80%
     - name: HTML & CSS
-      proficiency: 60%
+      proficiency: 80%
   knowledge:
     # - name: Application Security
     #   proficiency: 100%
-    - name: Reverse Engineering
-      proficiency: 80%
-    # - name: Big Data stack
-    #   proficiency: 90%
+    - name: .Net Core 
+      proficiency: 70%
     - name: React
       proficiency: 90%
     - name: Angularjs
       proficiency: 70%
     - name: Vuejs
-      proficiency: 70%
+      proficiency: 70% 
+    - name: Reverse Engineering
+      proficiency: 80%
     # - name: Statistics
     #   proficiency: 80%
     # - name: ScikitLearn, Gensim
