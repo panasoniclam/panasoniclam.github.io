@@ -26,9 +26,9 @@ projects:
   - name: OMNI Sidechain 
     link: #
     detail: An SideChain platform based on Blockchain (comming soon)
-  # - name: Membee Exchange
-  #   link: https://mcdemo.membee.vn/auth/login
-  #   detail:  Is an application that converts loyalty points to onchain tokens 
+  - name: Membee Exchange
+    link: https://mcdemo.membee.vn/auth/login
+    detail:  Is an application that converts loyalty points to onchain tokens 
   # - name: Membee admin
   #   link: https://mcdemo.membee.vn/
   #   detail: Project used to manage mobile application services 
