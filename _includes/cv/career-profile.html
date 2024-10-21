@@ -10,24 +10,6 @@
     </div>
 </section>
 
-<!--//Education-->
-<section class="section experiences-section">
-    <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Education</h2>
-
-    {% for education in site.data.cv.education %}
-        <div class="item">
-            <div class="meta">
-                <div class="upper-row">
-                    <h3 class="title">{{education.degree}}</h3>
-                    <div class="time">{{education.time}}</div>
-                </div>
-                <!--//upper-row-->
-                <div class="company">{{education.school}}</div>
-            </div>
-        </div>
-    {% endfor %}
-
-</section>
 
 <!--//Certificates-->
 <!-- <section class="section experiences-section">
@@ -48,40 +30,7 @@
 
 </section> -->
 
-<!--//skills-knowledge-->
-<section class="skills-section section">
-    <h2 class="section-title"><i class="fa fa-book"></i>Knowledge &amp; Proficiency</h2>
-    <div class="skillset">
-        {% for skill in site.data.cv.skills.knowledge %}
-            <div class="item">
-                <h3 class="level-title">{{skill.name}}</h3>
-                <div class="level-bar">
-                    <div class="level-bar-inner" style="width: {{skill.proficiency}};">
-                    </div>
-                </div>
-                <!--//level-bar-->
-            </div>
-        {% endfor %}
-    </div>
-</section>
-
-<!--//skills-programming-->
-<section class="skills-section section">
-    <h2 class="section-title"><i class="fa fa-language"></i>Programming &amp; Proficiency</h2>
-    <div class="skillset">
-        {% for skill in site.data.cv.skills.programming %}
-            <div class="item">
-                <h3 class="level-title">{{skill.name}}</h3>
-                <div class="level-bar">
-                    <div class="level-bar-inner" style="width: {{skill.proficiency}};">
-                    </div>
-                </div>
-                <!--//level-bar-->
-            </div>
-        {% endfor %}
-    </div>
-</section>
-
+ 
 <!--//Experiences-->
 <section class="section experiences-section">
     <h2 class="section-title"><i class="fa fa-briefcase"></i>Experiences</h2>
@@ -123,6 +72,58 @@
 
 </section>
 
+<!--//skills-knowledge-->
+<section class="skills-section section">
+    <h2 class="section-title"><i class="fa fa-book"></i>Knowledge &amp; Proficiency</h2>
+    <div class="skillset">
+        {% for skill in site.data.cv.skills.knowledge %}
+            <div class="item">
+                <h3 class="level-title">{{skill.name}}</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" style="width: {{skill.proficiency}};">
+                    </div>
+                </div>
+                <!--//level-bar-->
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+<!--//skills-programming-->
+<section class="skills-section section">
+    <h2 class="section-title"><i class="fa fa-language"></i>Programming &amp; Proficiency</h2>
+    <div class="skillset">
+        {% for skill in site.data.cv.skills.programming %}
+            <div class="item">
+                <h3 class="level-title">{{skill.name}}</h3>
+                <div class="level-bar">
+                    <div class="level-bar-inner" style="width: {{skill.proficiency}};">
+                    </div>
+                </div>
+                <!--//level-bar-->
+            </div>
+        {% endfor %}
+    </div>
+</section>
+
+<!--//Education-->
+<section class="section experiences-section">
+    <h2 class="section-title"><i class="fa fa-graduation-cap"></i>Education</h2>
+
+    {% for education in site.data.cv.education %}
+        <div class="item">
+            <div class="meta">
+                <div class="upper-row">
+                    <h3 class="title">{{education.degree}}</h3>
+                    <div class="time">{{education.time}}</div>
+                </div>
+                <!--//upper-row-->
+                <div class="company">{{education.school}}</div>
+            </div>
+        </div>
+    {% endfor %}
+
+</section>
 <!--//Hobbies-->
 <section class="section experiences-section">
     <h2 class="section-title"><i class="fa fa-briefcase"></i>Hobbies</h2>

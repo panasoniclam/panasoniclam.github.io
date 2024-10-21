@@ -66,6 +66,10 @@ skills:
       proficiency: 100%
     - name: C#
       proficiency: 70%
+    - name: Solidity
+      proficiency: 60%
+    - name: Elixir
+      proficiency: 60%
     - name: Assembly
       proficiency: 80%
     - name:  C/C++
@@ -126,7 +130,7 @@ experiences:
     time: 2022 to 2024
     company: Intelnet Joint Stock Company 
     details:
-      - Developed 16 decentralized social media web applications using React, CSS, Bootstrap, and web3.js/Ethers for integrating Ethereum.
+      - Developed 16 decentralized social media web applications using Elixir, Solidity, React, CSS, Bootstrap, and web3.js/Ethers for integrating Ethereum.
       - Built a private blockchain using Binance Sidechain that enhanced data security and reduced risk exposure by 93%.
       - Created and launched 12 decentralized applications based on RW's $150M daily transaction using Ethereum's smart contracts.
 
@@ -137,10 +141,7 @@ experiences:
       - Participated in the initial wave of developers learning and implementing the React.JS library.
       - Rewrote HTML to meet industry and company standards for SEO and Accessibility. This drove a 600% increase in users by appearing on the first page of Google search results.
       - Tested, debugged, and shipped 10s of 1000s of lines of code to various development teams. This lead to 100% bug-free deployment. Introduced Kanban Board style ticketing system to promote highly efficient asynchronous and synchronous work, increasing efficiency by 12%.
-      - Utilized HTML, CSS, and JavaScript to create 100+ responsive landing pages for both company and client.
       - Maintained graphic standards and branding throughout the product's interfaces.
-      - Worked directly with international technology partners
-
   - job: Intern student
     time: 2019 to 2021
     company: FPT Telecom Joint Stock Company.
