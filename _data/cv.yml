@@ -9,7 +9,7 @@ education:
 
 
 interests:
-  - Blockchain & AI
+  - Blockchain
   - Entrepreneurship
   - Education
 
@@ -111,7 +111,7 @@ skills:
 #   - name: Speaker in “Bellua Cyber Security Asia, the 4th annual conference on Information Security and Hacking”
 #     time: 2008
 
-# experiences:
+experiences:
 #   - job: Principal Software Engineer
 #     time: 2017 to present
 #     company: ZaloPay (VNG)
@@ -120,44 +120,37 @@ skills:
 #       - Mastermind behind ZaloPay Edu, a comprehensive training program for engineering freshers
 #       - "I created public channels to make ZaloPay open, including: open source repositories on GitHub, engineering blog on Medium"
 
-#   - job: Senior Data Engineer
-#     time: 2014 to 2017
-#     company: Viettel Group
-#     details:
-#       - "Led a team to build a massive-scale social media monitoring system using open source components including: crawlers (written in Java & Scala), messaging (using ActiveMQ & Protobuf), analytics (using Spark, Python Scikit-learn) and storage (with HBase, Redis, ElasticSearch, MySQL)"
-#       - Optimized performance for Python microservice using ZeroMQ & Greenlet (Apache Thrift does NOT suit my needs)
-#       - Researched on Statistics, NLP (Natural language processing). I worked under the mentorship of several PhDs. They helped me efficiently learn & improve my knowledge on AI.
-#       - Improved the in-house Vietnamese tokenizer
-#       - Developed algorithms based on Stanford CoreNLP for matching (token level) documents, extracting snippets...
-#       - Trained predictive models with ScikitLearn, XGBoost & Gensim for various projects like document categorization, sentiment analysis.
+  - job: Full Stack Developer
+    time: 2022 to 2024
+    company: Intelnet Joint Stock Company 
+    details:
+      - Developed 16 decentralized social media web applications using React, CSS, Bootstrap, and web3.js/Ethers for integrating Ethereum.
+      - Built a private blockchain using Binance Sidechain that enhanced data security and reduced risk exposure by 93%.
+      - Created and launched 12 decentralized applications based on RW's $150M daily transaction using Ethereum's smart contracts.
 
-#   - job: Security & Data Engineer
-#     time: 2013-2014
-#     company: Cyber Security Department, MV Corp
-#     details:
-#       - Conducted various researches on Big Data technologies (Hadoop stack), Machine Learning & Text Mining algorithms such as SVM, Neural Network, Ensemble method, TF-IDF … for detecting trends, related topics...
-#       - Led a project of building a large-scale crawler based on Nutch for collecting information from web and social networks
-#       - Worked directly with international technology partners
+  - job: Frontend Developer
+    time: 2021 to 2022
+    company: Ahamove All-time Service Joint Stock Company
+    details:
+      - Participated in the initial wave of developers learning and implementing the React.JS library.
+      - Rewrote HTML to meet industry and company standards for SEO and Accessibility. This drove a 600% increase in users by appearing on the first page of Google search results.
+      - Tested, debugged, and shipped 10s of 1000s of lines of code to various development teams. This lead to 100% bug-free deployment. Introduced Kanban Board style ticketing system to promote highly efficient asynchronous and synchronous work, increasing efficiency by 12%.
+      - Utilized HTML, CSS, and JavaScript to create 100+ responsive landing pages for both company and client.
+      - Maintained graphic standards and branding throughout the product's interfaces.
+      - Worked directly with international technology partners
 
-#   - job: Manager
-#     time: 2010-2013
-#     company: Bkav Security Division, Bkav Corp.
-#     details:
-#       - Used ANTLR to develop a language ,which is scriptable and based on context free grammar, to generate data for fuzzing.
-#       - Involved in many phases to design a product such as UI/UX, High-performance backends... I've got in-depth knowledge of systems and assisted technologies. Additionally, I'm very interested in designing business model for products.
-#       - Via forensics and investigation, I helped many people secure their computing systems & identities
-#       - Designed core content, prepared syllabus for intern students
+  - job: Intern student
+    time: 2019 to 2021
+    company: FPT Telecom Joint Stock Company.
+    details:
+      - Involved in many phases to design a product such as UI/UX, High-performance backends... I've got in-depth knowledge of systems and assisted technologies. Additionally, I'm very interested in designing business model for products.
+      - Via forensics and investigation, I helped many people secure their computing systems & identities
+      - Designed core content, prepared syllabus for intern students
 
-#   - job: Teaching assistant
-#     time: 2010-2012
-#     company: Hanoi University of Technology
-#     details:
-#       - Gave lectures on Network programming & Security
-
-#   - job: Intern student
-#     time: 2006-2010
-#     company: Bkav Security Division, Bkav Corp.
-#     details:
-#       - Researched extensively on Application Security, Reverse Engineering, Windows kernel system...
-#       - Discovered several critical vulnerabilities in popular applications. The very first vulnerability of Google Chrome was submitted by me
-#       - Presented my paper entitled "Unicode shellcode and improvements" at Bellua Cyber Security conference (2008). In the paper I demonstrated a novel idea on optimizing size of Unicode shellcodes.
+  - job: Intern student
+    time: 2016 to 2019
+    company: Academy of Cryptography Techniques.
+    details:
+      - Researched extensively on Application Security, Reverse Engineering, Windows kernel system...
+      - Discovered several critical vulnerabilities in popular applications. The very first vulnerability of Google Chrome was submitted by me
+      - Presented my paper entitled "Unicode shellcode and improvements" at Bellua Cyber Security conference (2008). In the paper I demonstrated a novel idea on optimizing size of Unicode shellcodes.
