@@ -32,10 +32,10 @@ projects:
   - name: Membee admin
     link: https://mcdemo.membee.vn/
     detail: Project used to manage mobile application services 
-   - name: Collaboration HUB
+  - name: Collaboration HUB
     link: https://hi.fpt.vn/
     detail: The Web application helps employees interact directly with customers through the homepage of fpt.vn, FPT Telecom fanpage and Hi FPT application with chat, media message and streaming video call features
-   - name: Tracker Ahamove
+  - name: Tracker Ahamove
     link: https://github.com/panasoniclam/ahamove
     detail: #
   # - name: Unicode Shellcode and Improvements (paper)
