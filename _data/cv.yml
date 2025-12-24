@@ -25,6 +25,9 @@ hobbies:
   - Trekking
 
 projects:
+  - name: HRService
+    link: "https://hrservices.vn"
+    detail: Is an enterprise-level Human Resource Management system designed to support and automate core HR processes within organizations.
   - name: OMNI Sidechain 
     link: #
     detail: An SideChain platform based on Blockchain (comming soon)
@@ -40,39 +43,19 @@ projects:
   - name: Tracker Ahamove
     link: "https://github.com/panasoniclam/ahamove"
     detail: #
-  # - name: Unicode Shellcode and Improvements (paper)
-  #   link: "/resources/unicode_shellcode_2008.pdf"
-  #   detail: Buffer overflow bugs are amongst the most prevalent and the most critical bugs today. On exploiting these bugs, we often encounter the problem of Unicode format which prevents our shellcodes from executing properly. This documentation will cover conventional methods to write a Unicode shellcode and the improvements that we have applied.
-
+ 
 references:
-#   - title: "ComputerWorld: Google issues first patches for Chrome"
-#     link: "http://www.computerworld.com/article/2532985/security0/google-issues-first-patches-for-chrome.html"
-#   - title: "F-Secure: Microchip MPLAB IDE Buffer Overflow Vulnerability"
-#     link: "http://www.f-secure.com/vulnerabilities/SA200902011"
-#   - title: "Article: Building a Search Text Box Control with WPF"
-#     link: "http://www.codeproject.com/Articles/101975/Building-a-Search-Text-Box-Control-with-WPF"
-#   - title: "MQTT.js contributor"
-#     link: "https://github.com/mqttjs/MQTT.js/graphs/contributors"
-#   - title: "Gensim contributor"
-#     link: "https://github.com/RaRe-Technologies/gensim/pull/548"
-#   - title: "Introduction to Zookeeper (slideshare)"
-#     link: "http://www.slideshare.net/anhldbk/zookeeper-big-sonata"
+ 
   - title: "Admin of Vietnam Uipath community"
     link: "https://www.facebook.com/profile.php?id=100066303955655"
   - title: "Admin of Vietnam QR Code community"
     link: "https://www.facebook.com/share/g/ZgneiDLeLvi3pfK4/"
-#   - title: "ZaloPay Edu: Khởi nguồn (vietnamese)"
-#     link: "https://medium.com/zalopay-engineering/zalopay-edu-kh%E1%BB%9Fi-ngu%E1%BB%93n-77cf855246c1"
-#   - title: "ZaloPay Open Source"
-#     link: "https://github.com/zalopay-oss"
-#   - title: "ZaloPay Engineering Blog"
-#     link: "https://medium.com/zalopay-engineering"
+ 
 
 languages:
   - name: Vietnamese
-    level: Native
-#   - name: English
-#     level: Professional
+  - name: English
+ 
 
 skills:
   programming:
@@ -91,8 +74,6 @@ skills:
     - name: HTML & CSS
       proficiency: 80%
   knowledge:
-    # - name: Application Security
-    #   proficiency: 100%
     - name: .Net Core 
       proficiency: 70%
     - name: React
@@ -103,42 +84,18 @@ skills:
       proficiency: 70% 
     - name: Reverse Engineering
       proficiency: 80%
-    # - name: Statistics
-    #   proficiency: 80%
-    # - name: ScikitLearn, Gensim
-    #   proficiency: 70%
-    # - name: NLP
-    #   proficiency: 60%
-    # - name: DevOps
-    #   proficiency: 70%
+ 
 
-# certificates:
-#   - name: Bitcoin and Cryptocurrency Technologies
-#     time: 2016
-#     issuer: Princeton University (in associated with Coursera)
-#   - name: Economics
-#     time: 2010
-#     issuer: National Economics University
-#   - name: Business Management
-#     time: 2010
-#     issuer: Ministry of Science & Technology
-#   - name: TOEFL ITP
-#     time: 2010
-#     issuer: Postech University (Korea)
-#   - name: Best students in “Panasonic-sponsored class for embedded software development”
-#     time: 2009
-#     issuer: Panasonic Vietnam
-#   - name: Speaker in “Bellua Cyber Security Asia, the 4th annual conference on Information Security and Hacking”
-#     time: 2008
+ 
 
 experiences:
-#   - job: Principal Software Engineer
-#     time: 2017 to present
-#     company: ZaloPay (VNG)
-#     details:
-#       - Concentrating on building distributed systems, I've designed and provided solutions for core services in ZaloPay
-#       - Mastermind behind ZaloPay Edu, a comprehensive training program for engineering freshers
-#       - "I created public channels to make ZaloPay open, including: open source repositories on GitHub, engineering blog on Medium"
+  - job: Frontend Developer
+    time: 2024 to present
+    company: Talentnet Corporation
+    details:
+      - Develop and maintain Angular-based UI for the HRService enterprise system, including employee, probation, and approval workflows.
+      - Integrate RESTful APIs, handle complex forms, file management (MinIO)..., and ensure data accuracy and security.
+      - Optimize frontend performance, write unit tests, and collaborate closely with backend and QA teams.
 
   - job: Full Stack Developer
     time: 2022 to 2024
@@ -164,9 +121,3 @@ experiences:
       - Via forensics and investigation, I helped many people secure their computing systems & identities
       - Designed core content, prepared syllabus for intern students
 
-  - job: Intern student
-    time: 2016 to 2019
-    company: Academy of Cryptography Techniques.
-    details:
-      - Researched extensively on Application Security, Reverse Engineering, Windows kernel system...
-      - Presented my paper entitled "Unicode shellcode and improvements" at Bellua Cyber Security conference (2008). In the paper I demonstrated a novel idea on optimizing size of Unicode shellcodes.
