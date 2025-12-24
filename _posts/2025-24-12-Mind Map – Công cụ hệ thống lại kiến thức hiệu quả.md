@@ -1,4 +1,8 @@
-#  Mind Map – Công cụ hệ thống lại kiến thức hiệu quả (với MindMeister)
+---
+title: Mind Map – Công cụ hệ thống lại kiến thức hiệu quả (với MindMeister)
+layout: post
+---
+ 
 
 Trong quá trình học tập và làm việc, đặc biệt với các lĩnh vực có nhiều kiến thức phức tạp như **lập trình, công nghệ, quản lý dự án**, việc ghi nhớ và hệ thống thông tin là một thách thức lớn.  
 **Mind Map (sơ đồ tư duy)** là một phương pháp trực quan giúp tổ chức, kết nối và ghi nhớ kiến thức hiệu quả hơn.
