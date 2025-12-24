@@ -1,5 +1,5 @@
 ---
-title: Mind Map – Công cụ hệ thống lại kiến thức hiệu quả (với MindMeister)
+title: Mind Map  
 layout: post
 ---
  
